@@ -1,8 +1,2 @@
-#This file from  @rnsbatch20
-
-#FIrst edit from Dev1
-
-#Second edit from Dev1
-
-#First edit from Dev2
+#This is README file from master Branch
 
